@@ -1,5 +1,5 @@
-## Hi there 👋
-이학진바보
+## 반갑습니다 저는 컴퓨터공학전공 2학년 재학중인 박민준 이라고 합니다. 👋
+### 
 <!--
 **MiinJuun/MiinJuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
