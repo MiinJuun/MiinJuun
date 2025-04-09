@@ -1,6 +1,6 @@
 ## 반갑습니다 저는 컴퓨터공학전공 2학년 재학중인 박민준 이라고 합니다. 👋
 ### 
-<!--
+<!--![header](https://capsule-render.vercel.app/api?type=rounded)
 **MiinJuun/MiinJuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
