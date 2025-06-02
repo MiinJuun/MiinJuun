@@ -14,6 +14,15 @@
   ## 🏫: 영남대학교 디지털융합대학 컴퓨터공학전공 22학번 재학
   ## 🪖: 대한민국 육군 병장 만기전역 
   ## :id: https://www.instagram.com/minjun_8/
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MiinJuun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/MiinJuun"
+  width="600"
+  height="300"
+/>
+</a>
+
+  
   
   <br/>
   <br/>
