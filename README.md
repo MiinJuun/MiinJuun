@@ -1,18 +1,17 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=반갑습니다^^)
-  
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=😸😸😸😸😸😸)
 </div>
 
 <div>
   <!--Body-->
   
-  # ❓: 저를 소개합니다!
-  ## 📛: 박 민 준 MinJun Park
-  ## 🍼: 2003년 11월 28일 출생
-  ## 🏫: 영남대학교 디지털융합대학 컴퓨터공학전공 22학번 재학
-  ## 🪖: 대한민국 육군 병장 만기전역 
+  ## 📛 박 민 준 MinJun Park
+  ## 🍼 2003년 11월 28일에 태어났어요.
+  ## 🏫 컴퓨터공학을 전공하고 있어요.
+  ## 🪖 대한민국 육군 병장 만기전역
+  ## 🔥🔥열정, 패기, 청춘🔥🔥
   ## :id: https://www.instagram.com/minjun_8/
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MiinJuun&utm_content=farm">
 <img
