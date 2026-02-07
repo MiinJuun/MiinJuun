@@ -8,10 +8,7 @@
   <!--Body-->
   
   ## 📛 박 민 준 MinJun Park
-  ## 🍼 2003년 11월 28일에 태어났어요.
   ## 🏫 컴퓨터공학을 전공하고 있어요.
-  ## 🪖 대한민국 육군 병장 만기전역
-  ## 🔥🔥열정, 패기, 청춘🔥🔥
   ## :id: https://www.instagram.com/minjun_8/
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MiinJuun&utm_content=farm">
 <img
