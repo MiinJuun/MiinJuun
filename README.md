@@ -9,7 +9,6 @@
   
   ## 📛 박 민 준 MinJun Park
   ## 🏫 컴퓨터공학을 전공하고 있어요.
-  ## :id: https://www.instagram.com/minjun_8/
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MiinJuun&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/MiinJuun"
